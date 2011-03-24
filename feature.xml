@@ -18,7 +18,7 @@
    </license>
 
    <url>
-      <update label="Mura Tools" url="http://muratools.s3.amazonaws.com/lite/index.html"/>
+      <update label="Mura Tools" url="http://update.muratools.com/index.html"/>
    </url>
 
    <requires>
