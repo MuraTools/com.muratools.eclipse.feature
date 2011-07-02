@@ -2,7 +2,7 @@
 <feature
       id="com.muratools.eclipse.feature"
       label="Mura Tools"
-      version="1.2.0.qualifier"
+      version="1.2.2.qualifier"
       provider-name="Mura Tools">
 
    <description url="http://muratools.com/">
@@ -25,7 +25,7 @@ limitations under the License.
    </license>
 
    <url>
-      <update label="Mura Tools" url="http://update.muratools.com/preview/index.html"/>
+      <update label="Mura Tools" url="http://update.muratools.com/index.html"/>
    </url>
 
    <requires>
